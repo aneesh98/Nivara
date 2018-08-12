@@ -21,9 +21,7 @@ import java.nio.DoubleBuffer;
 import java.util.HashMap;
 import java.util.List;
 
-/**
- * @auth Priyanka
- */
+
 
 public class GetDirectionsData extends AsyncTask<Object,String,String> {
 
